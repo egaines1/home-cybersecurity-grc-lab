@@ -1,0 +1,50 @@
+
+# 🏠 Home GRC Cybersecurity Lab
+
+## 🔍 Project Overview
+This project demonstrates foundational GRC (Governance, Risk, and Compliance) cybersecurity skills using a realistic home environment. It simulates a complete risk assessment lifecycle, aligned with CIS Controls and MITRE ATT&CK, with full documentation and policy creation to mirror real-world compliance tasks.
+
+---
+
+## 📋 Asset & Risk Summary
+All risk-related data is organized in the `Home_GRC_Risk_Assessment.xlsx` file, which includes the following sheets:
+- **Asset Inventory**: A list of home devices with CIA (Confidentiality, Integrity, Availability) ratings
+- **Risk Assessment**: Threats, vulnerabilities, and qualitative risk ratings
+- **Risk Treatment Plan**: Defined strategies to mitigate or accept risk
+- **MITRE ATT&CK Map**: Threats aligned with real-world techniques and IDs
+
+---
+
+## 🛡️ Controls & Framework Mapping
+Each risk was mapped to specific CIS Controls v8 with control type classifications:
+- Preventive
+- Detective
+- Corrective
+
+This showcases the ability to create technical and administrative security control strategies aligned to industry standards.
+
+---
+
+## 📄 Security Policy
+This project includes a full governance document in the form of a Home Information Security Policy, outlining security expectations, acceptable use, incident response, and consequences for policy violations.
+
+📄 [Home Information Security Policy](./Home_Information_Security_Policy.md)
+
+---
+
+## 🧠 Lessons Learned
+- Built a real-world risk assessment using cybersecurity governance frameworks.
+- Learned how to identify and prioritize threats, vulnerabilities, and associated business risk.
+- Practiced professional documentation and policy development.
+- Gained exposure to control frameworks (CIS) and threat modeling (MITRE ATT&CK).
+- Strengthened communication skills by presenting findings and mitigation strategies clearly.
+
+
+## 📁 Files Included
+- [Home_GRC_Risk_Assessment.xlsx](./Home_GRC_Risk_Assessment.xlsx)
+- [Home_Information_Security_Policy.md](./Home_Information_Security_Policy.md)
+
+---
+
+**Author:** Edward Gaines  
+**Date:** June 6, 2025
