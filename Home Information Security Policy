@@ -1,0 +1,58 @@
+
+#Home Information Security Policy
+
+**Version:** 1.0  
+**Owner:** Edward Gaines  
+**Last Updated:** June 6, 2025
+
+---
+
+## 1. Purpose
+This policy outlines the security expectations and practices for all devices, data, and network components within the home environment. Its goal is to reduce cybersecurity risk and protect sensitive personal and financial data.
+
+---
+
+## 2. Scope
+This policy applies to all individuals accessing or managing devices connected to the home network, including:
+- Laptops  
+- Mobile phones  
+- Smart TVs  
+- Gaming consoles  
+- Wi-Fi routers  
+- Cloud storage services used at home
+
+---
+
+## 3. Roles & Responsibilities
+- **Device Owners** must ensure their devices follow security controls listed in this policy.  
+- **All Users** must comply with secure usage and reporting practices.  
+- **Network Admin (Owner)** is responsible for configuring the router, managing updates, and enforcing policies.
+
+---
+
+## 4. Security Requirements
+- **Authentication**: All accounts must use strong, unique passwords. MFA must be enabled on sensitive accounts.  
+- **Patching**: Firmware and software updates must be applied regularly.  
+- **Anti-Malware**: All PCs and phones must have security software installed and updated.  
+- **Encryption**: Laptops and mobile devices must use full-disk encryption where available.  
+- **Router Security**: Default admin credentials must be changed. WPA3 or WPA2 encryption must be enabled.  
+- **Device Configuration**: Disable unused ports, services, and remote management features.  
+- **Logging**: Router logs should be enabled and reviewed monthly for anomalies.
+
+---
+
+## 5. Acceptable Use
+- Devices must not be shared with unknown or unauthorized users.  
+- No unauthorized software or applications may be installed.  
+- Devices must not be jailbroken or rooted.  
+- Public Wi-Fi should be avoided unless using a VPN.
+
+---
+
+## 6. Incident Response
+Any suspected malware infection, unauthorized access, or device theft must be reported immediately to the network admin. Affected devices should be disconnected from the network and scanned. Logs should be preserved for review.
+
+---
+
+## 7. Violations
+Failure to comply with this policy may result in restricted access to the home network and increased risk of personal data loss or identity theft.
